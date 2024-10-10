@@ -1,5 +1,7 @@
 # Stopwatch
 
+<img src="./screenshots/screenshot.png" alt="Description of the screenshot" width="300"/>
+
 ## Key Takeaways
 
 - **Feature-Based Architecture**: App is structured by features for modularity and maintainability.
