@@ -1,6 +1,6 @@
 # Stopwatch
 
-<img src="./screenshots/screenshot.png" alt="Description of the screenshot" width="300"/>
+<img src="./screenshots/screen.png" alt="Description of the screenshot" width="300"/>
 
 ## Key Takeaways
 
